@@ -1,5 +1,4 @@
 #!/bin/bash
-sudo su 
 sudo apt-get -y update
 
 sudo apt-get -y install apache2
@@ -84,4 +83,3 @@ sudo service apache2 start
                                 </style>
                                 ' > /var/www/html/index.html
 
-                                EOF
