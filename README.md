@@ -9,7 +9,7 @@ No requirements.
 |------|---------|
 | <a name="provider_aws"></a> [aws](#provider\_aws) | n/a |
 
-## Modules
+## Module
 
 No modules.
 
