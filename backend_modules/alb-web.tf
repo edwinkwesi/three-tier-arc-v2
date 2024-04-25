@@ -1,4 +1,4 @@
-resource "aws_alb" "alb-web" {
+resource "aws_alb" "alb-web"{
   name               = var.alb-web-name
   internal           = false
   load_balancer_type = "application"
